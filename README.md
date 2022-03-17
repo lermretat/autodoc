@@ -1,0 +1,2 @@
+# autodoc
+Ejemplos de autodocumentación.
