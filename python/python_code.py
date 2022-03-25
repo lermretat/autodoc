@@ -19,3 +19,12 @@ class Clase_autodoc:
         """        
         return "Por tanto, soy mantenible :)"
       
+    def ejemplo_estilo_JetBrains(list_of_items):
+        """Este es el estilo de documentación como se ve en JetBrains
+
+        :param parametro: ejemplo de parámetro
+        :type tipo: ejemplo de tipo
+        
+        :return valor: variable que devuelve la función
+        """
+        pass
