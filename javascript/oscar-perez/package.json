@@ -1,0 +1,15 @@
+{
+  "name": "oscar-perez",
+  "version": "1.0.0",
+  "description": "",
+  "main": "suma.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "doc": "jsdoc -d docs --configure jsconf.json suma.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jsdoc": "^3.6.10"
+  }
+}
