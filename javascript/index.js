@@ -1,4 +1,5 @@
 //@ts-check
 import { registrarUsuario } from "./function";
 
-registrarUsuario('harold andres', 33, true,['Especializacion en desarrollo de software']);
+registrarUsuario('harold a', 33, true,['Especializacion en desarrollo de software']); 
+
